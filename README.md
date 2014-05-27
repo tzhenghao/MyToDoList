@@ -3,8 +3,8 @@ My To Do List
 
 Introduction
 -----------
-This is a simple to do list that I've done using a new language that I've learned, 
-which is PHP.
+This is a simple to do list that I've done using a new tool that I've learned, 
+which is Yeoman.
 
 Support
 -------
