@@ -9,4 +9,4 @@ which is Yeoman.
 Support
 -------
 Feel free to contact me if you have any questions or concerns. My email address is
-tanzhao@umich.edu.
+tanzhao@umich.edu
