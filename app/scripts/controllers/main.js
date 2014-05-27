@@ -2,9 +2,11 @@
 
 angular.module('myToDoListApp')
   .controller('MainCtrl', function ($scope) {
-    $scope.awesomeThings = [
-      'HTML5 Boilerplate',
-      'AngularJS',
-      'Karma'
-    ];
+    $scope.todos = ['Item 1', 'Item 2', 'Item 3', 'Item 4'];
+
+    $scope.addTodo = function() {
+      $scope.todos.push($scope.todo);
+      $scope.todo = '';
+    }
   });
+
